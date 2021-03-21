@@ -1,0 +1,16 @@
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\bin\Debug\NeuralNetworkConstructor.exe.config
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\bin\Debug\NeuralNetworkConstructor.exe
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\bin\Debug\NeuralNetworkConstructor.pdb
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.csprojAssemblyReference.cache
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.Conv2D.resources
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.DropOut.resources
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.Linear.resources
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.MaxPulling.resources
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.Properties.Resources.resources
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.csproj.GenerateResource.cache
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.exe
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.pdb
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.ModelSettings.resources
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.Main.resources
+C:\Users\ivlad\source\repos\NeuralNetworkConstructor\NeuralNetworkConstructor\obj\Debug\NeuralNetworkConstructor.Visual.resources
